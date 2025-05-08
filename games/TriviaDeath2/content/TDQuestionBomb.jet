@@ -1,0 +1,438 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "жёлтый"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "синий"
+    },
+    {
+     "controllerClass": "green",
+     "correct": true,
+     "text": "зелёный"
+    },
+    {
+     "controllerClass": "white",
+     "correct": false,
+     "text": "белый"
+    }
+   ],
+   "id": "55351",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]В инструкции написано: \"Отрежьте НЕСПЕЛЫЙ провод!\" Я понятия не имею, к чему это. Извини...",
+   "text": "[EventName=HOST/AltHost]В инструкции написано: \"Отрежьте НЕСПЕЛЫЙ провод!\"",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "жёлтый"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "синий"
+    },
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "красный"
+    },
+    {
+     "controllerClass": "green",
+     "correct": true,
+     "text": "зелёный"
+    }
+   ],
+   "id": "55457",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод основного цвета, который при этом не является основным пигментом\". Что это вообще значит?!",
+   "text": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод основного цвета, который при этом не является основным пигментом\".",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "красный"
+    },
+    {
+     "controllerClass": "orange",
+     "correct": false,
+     "text": "оранжевый"
+    },
+    {
+     "controllerClass": "green",
+     "correct": true,
+     "text": "зелёный"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "синий"
+    }
+   ],
+   "id": "55745",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано: \"couper le fil vert\". Это явно не английский.",
+   "text": "[EventName=HOST/AltHost]Здесь написано: \"couper le fil vert\".",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "жёлтый"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "зелёный"
+    },
+    {
+     "controllerClass": "white",
+     "correct": false,
+     "text": "белый"
+    },
+    {
+     "controllerClass": "purple",
+     "correct": true,
+     "text": "фиолетовый"
+    }
+   ],
+   "id": "55827",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод того цвета, в какой окрашивается лакмусовая бумага в нейтральной среде\".",
+   "text": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод того цвета, в какой окрашивается лакмусовая бумага в нейтральной среде\".",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "жёлтый"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "синий"
+    },
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "красный"
+    },
+    {
+     "controllerClass": "white",
+     "correct": false,
+     "text": "белый"
+    }
+   ],
+   "id": "55875",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод того же цвета, одежду с которым обычно носят невесты в Китае\".",
+   "text": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод того же цвета, одежду с которым обычно носят невесты в Китае\".",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": true,
+     "text": "жёлтый"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "зелёный"
+    },
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "красный"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "синий"
+    }
+   ],
+   "id": "55877",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод вощаного цвета\". Что?",
+   "text": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод вощаного цвета\".",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "красный"
+    },
+    {
+     "controllerClass": "green",
+     "correct": true,
+     "text": "зелёный"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "жёлтый"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "синий"
+    }
+   ],
+   "id": "55905",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод того же цвета, какого цвета был камень времени в фильме [i]Мстители: Война Бесконечности[/i]\".",
+   "text": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод того же цвета, какого цвета был камень времени в фильме [i]Мстители: Война Бесконечности[/i]\".",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "красный"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "зелёный"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "жёлтый"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": true,
+     "text": "синий"
+    }
+   ],
+   "id": "55908",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод того же цвета, каким назывался период творчества Пабло Пикассо c 1901 по 1904 года\".",
+   "text": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод того же цвета, каким назывался период творчества Пабло Пикассо c 1901 по 1904 года\".",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "красный"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "зелёный"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": true,
+     "text": "жёлтый"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "синий"
+    }
+   ],
+   "id": "55910",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод того же цвета, какого цвета был зонтик у мамы из т/с [i]Как я встретил вашу маму[/i]\".",
+   "text": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод того же цвета, какого цвета был зонтик у мамы из т/с [i]Как я встретил вашу маму[/i]\".",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "жёлтый"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "зелёный"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": true,
+     "text": "синий"
+    },
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "красный"
+    }
+   ],
+   "id": "55972",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод того же цвета, под которым на стандартной русской Монополии распологается улица Арбат\".",
+   "text": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод того же цвета, под которым на стандартной русской Монополии распологается улица Арбат\".",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "красный"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "зелёный"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "жёлтый"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "синий"
+    }
+   ],
+   "id": "55990",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано \"Отрежьте провод того же цвета, каким было прозвище героя Моргана Фримена в фильме [i]Побег из Шоушенка[/i]\". Эх... а я ведь так и не посмотрел этот фильм. Надеюсь, хоть тебе это что-то подскажет.",
+   "text": "[EventName=HOST/AltHost]Здесь написано \"Отрежьте провод того же цвета, каким было прозвище героя Моргана Фримена в фильме [i]Побег из Шоушенка[/i]\".",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "зелёный"
+    },
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "красный"
+    },
+    {
+     "controllerClass": "black",
+     "correct": false,
+     "text": "чёрный"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "синий"
+    }
+   ],
+   "id": "56021",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод под тем же номером, под каким вышла книга [i]Гарри Поттер и тайная комната[/i]\". Я никогда не читал таких книг, поэтому не смогу помочь с этим.",
+   "text": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод под тем же номером, под каким вышла книга [i]Гарри Поттер и тайная комната[/i]\".",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "красный"
+    },
+    {
+     "controllerClass": "black",
+     "correct": false,
+     "text": "чёрный"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "зелёный"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "синий"
+    }
+   ],
+   "id": "57030",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод, чей номер является разницей квинты в квадрате и удвоенной дуодецимы\".",
+   "text": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте провод, чей номер является разницей квинты в квадрате и удвоенной дуодецимы\".",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "black",
+     "correct": false,
+     "text": "чёрный"
+    },
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "красный"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": true,
+     "text": "синий"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "зелёный"
+    }
+   ],
+   "id": "57031",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте терциарный провод\".",
+   "text": "[EventName=HOST/AltHost]Здесь написано: \"Отрежьте терциарный провод\".",
+   "us": false,
+   "x": false
+  }
+ ]
+}

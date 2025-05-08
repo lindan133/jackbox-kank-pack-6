@@ -1,0 +1,7029 @@
+{
+	"content": [
+		{
+			"x": false,
+			"id": 66000,
+			"text": "Люди, признанные иноагентами РФ",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Моргенштерн Алишер Тагирович"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Киселёв Евгений Алексеевич"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ганапольский Матвей Юрьевич"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гордеева Катерина Владимировна"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Макаревич Андрей Вадимович"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Алексеев Иван Александрович"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Белый Руслан Викторович"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Дзядко Тихон Викторович"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Олег Юрьевич Тиньков"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Алексей Вячеславович Панин"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Мирон Янович Фёдоров"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Соболев Николай Юрьевич"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Каспаров Гарри Кимович"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Галкин Максим Александрович"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Иванов Дмитрий Сергеевич"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Дудь Юрий Александрович"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Троянова Яна Александровна"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Касьянов Михаил Михайлович"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Елизавета Андреевна Гырдымова"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Алла Борисовна Пугачёва"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Прусикин Илья Владимирович"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Иван Тимофеевич Дрёмин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Воронов Владимер Владимирович"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Любарев Аркадий Ефимович"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Максим Сергеевич Голополосов"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Юрий Михайлович Хованский"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Артемий Андревич Лебедев"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Даниил Владиславович Дмитриев"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Глеб Вахрамеев Алексеевич"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Анастасия Вячеславовна Ивлеева"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Дмитрий Александрович Уткин"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66001,
+			"text": "Ушли с Российского рынка",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "IKEA"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Gucci"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Nike"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Balenciaga"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Puma"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Prada"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Victoria’s Secret"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Apple"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Vans"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Swarovski"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Meta"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Binance"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Adobe"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Nintendo"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Spotify"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Чудо"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Домик в деревне"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ubisoft"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Фруктовый сад"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Агуша"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Universal Pictures"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Walt Disney"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "J7"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "GQ"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Отели Accor"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Lenovo"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Asus"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Burger King"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Calvin Klein Jeans"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Levis"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Леруа Мерлен"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ашан"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Nestle"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Mars"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66002,
+			"text": "Страны Латинской Америки",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бразилия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Колумбия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Чили"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Перу"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Венесуэла"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Эквадор"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гайана"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Боливия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Парагвай"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Суринам"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Камбоджа"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Вьетнам"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Малайзия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Кувейт"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Мексика"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Коста-Рика"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сент-Люсия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Никарагуа"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66003,
+			"text": "Резиденты Comedy Club (на 2024 год)",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Павел Воля"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гарик Харламов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Тимур Батрутдинов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Демис Карибидис"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Марина Кравец"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Женя Синяков"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Андрей Бебуришвили"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Иван Половинкин"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Дмитрий Сорокин"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Антон Иванов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Костя Бутусов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Роман Сафонов"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сергей Гореликов"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Зураб Матуа"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Андрей Аверин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Семён Слепаков"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Александр Пушной"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Вадим Галыгин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Гарик Мартиросян"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Михаил Галустян"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Гавриил Гордеев"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Андрей Молочный"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сергей Гореликов"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Глеб Вахрамеев"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66004,
+			"text": "Страны западной Африки",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гана"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Либерия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сьерра-Леоне"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Алжир"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Чад"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Судан"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ливия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Египет"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Руанда"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Эфиопия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сомали"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Кения"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Зимбабве"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Мадагаскар"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Уганда"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Танзания"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66005,
+			"text": "Города-миллионники России (на 2024 год)",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Москва"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Новосибирск"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Екатеринбург"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Казань"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Нижний Новгород"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Красноярск"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Челябинск"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Самара"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ростов-на-Дону"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Краснодар"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Уфа"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Омск"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Воронеж"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пермь"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Волгоград"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Саратов"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Тюмень"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Тольятти"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Барнаул"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Хабаровск"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66006,
+			"text": "Люди, рост которых больше 180см",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Мария Шарапова"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Адриана Скленарикова"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Лолита"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Егор Крид"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Юрий Стоянов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Дима Билан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сергей Лазарев"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "OG Buda"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Yung Trappa"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Максим Валев"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Playboi Carti"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Владимир Путин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Кани Уэст"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Глеб Вахрамеев"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сидни Суини"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ким Кардашьян"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66007,
+			"text": "Не являются нулем!",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "4*4 - 3*3 - 2*2 + 1*1"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "0^0"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "22/22 * 22/22"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "-5^2 + 5^2"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "1^0"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "0.5/0.5"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "2^2 + 4 - 6 + 8 - 10"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "-5 + 5 - 5 + 0 + 5"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "1+1-1-1+1+1-1+1-1+1-1-1"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "0^1"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "1 + 2 + 3 + 4 + 5 - 15"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66008,
+			"text": "Города Беларуси",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гродно"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Могилев"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бобруйск"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Лида"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Жлобин"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кричев"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гомель"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пинск"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Новополоцк"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Львов"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Черкассы"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ужгород"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Бердянск"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Лисичанск"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Балаково"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Одинцово"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Гали"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Каган"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66009,
+			"text": "Столицы",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Вена"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Брюссель"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "София"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сараево"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ватикан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Лондон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Будапешт"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Берлин"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Афины"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Копенгаген"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Дублин"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Рейкьявик"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Мадрид"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Рим"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Рига"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Вильнюс"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Вадуц"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Люксембург"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Скопье"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Валлетта"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кишинёв"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Монако"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Амстердам"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Осло"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Любляна"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Лиссабон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Москва"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бухарест"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Белград"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Братислава"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Любляна"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Хельсинки"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кабул"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Таллин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Дубай"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Торонто"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Тель-Авив"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сидней"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Шанхай"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Рио-де-Жанейро"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Берн"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Касабланка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Марракеш"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Кейптаун"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Женева"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Цюрих"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Барселона"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66010,
+			"text": "Президенты США",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Джордж Вашингтон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Джон Адамс"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Томас Джефферсон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Джеймс Мэдисон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Джеймс Монро"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Джон Куинси Адамс"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Эндрю Джексон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Уоррен Гардинг"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Калвин Кулидж"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Герберт Гувер"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Франклин Рузвельт"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гарри Трумэн"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Дуайт Эйзенхауэр"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Джон Кеннеди"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Линдон Джонсон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ричард Никсон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Джеральд Форд"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Джимми Картер"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Рональд Рейган"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Барак Обама"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Дональд Трамп"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Джо Байден"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Аарон Ван Бюрен"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Уильям Генри Морган"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Камала Харрис"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Джеймс Франклин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Эндрю Джонсон"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Эрнест Резерфорд"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Джеймс II Томпсон"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Бенджамин Баттон"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Эндрю Кливленд"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Уильям Трент"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Тирни Уилсон"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Хиллари Клинтон"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Митт Ромни"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Бенджамин Франклин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Джон Маккейн"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66011,
+			"text": "Мифические существа с человеческими головами",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Русалка"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кентавр"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гарпия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сирена"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сфинкс"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Тритон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Медуза"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сатир"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Цербер"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Грифон"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Пегас"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Феникс"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66012,
+			"text": "Страны, столицы которых начинаются на букву «Б»",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ирак"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Таиланд"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Киргизия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ливан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Германия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сербия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Колумбия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бразилия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бельгия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Венгрия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Багамы"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Канада"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Испания"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Азербайджан"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Эстония"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Перу"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Катар"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Индия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Камбоджа"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Иордания"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Польша"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66013,
+			"text": "Островные территории США",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гуам"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Виргинские острова"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пуэрто-Рико"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Аруба"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Багамские острова"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Бермудские острова"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Каймановы острова"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Доминиканская республика"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Коста-Рика"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Куба"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ямайка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Тринидад и Тобаго"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66014,
+			"text": "Страны, в которых есть метро",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Россия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Португалия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Китай"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Канада"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Белоруссия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Узбекистан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ОАЭ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Великобритания"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "США"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Турция"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Казахстан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Украина"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Япония"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Азербайджан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Армения"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Германия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Афганистан"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Боливия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Парагвай"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Коста-Рика"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Исландия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Непал"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Хорватия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Австралия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Новая Зеландия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Конго"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Судан"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ливия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ЧАД"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66015,
+			"text": "Виды петухов",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Черный хохлатый"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Красный петух Род-Айленда"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Шелковый петух"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Петух Плимутской породы"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Польский Петух"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кочинский петух"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Австралоорпский петух"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Летний петух"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яванский петух"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Звездопевый петух"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Хрустальный петух"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Радужный петух-обманщик"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Опущенный петух"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Песчаный петух"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Петух-рассветник"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Украинский петух"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Золотоклювый петух"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ткач-петух"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66016,
+			"text": "Буквы греческого алфавита",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "бета"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "гамма"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "эпсилон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "дзета"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "эта"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "мю"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "кси"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "омикрон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ипсилон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "хи"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ретта"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ра"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "пю"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "кви"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ки"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "мюон"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "по"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "лептон"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "бозон"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "фета"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66017,
+			"text": "Страны Европейского союза",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ирландия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Франция"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Мальта"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Германия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кипр"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Дания"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Польша"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Нидерланды"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Люксембург"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Австрия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Испания"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Болгария"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Швеция"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Хорватия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Эстония"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Финляндия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Италия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Венгрия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бельгия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Чехия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Румыния"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Греция"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Словаения"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Португалия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Латвия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Словакия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Литва"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Албания"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Андорра"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Босния"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Герцеговина"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ватикан"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Исландия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Лихтенштейн"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Монако"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Норвегия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сан-Марино"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Северная Македония"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Косово"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сербия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Турция"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Черногория"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Швейцария"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Великобритания"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Армения"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Азербайджан"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Беларусь"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Грузия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Украина"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66018,
+			"text": "Люди с фамилией Пригожин",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пригожин Иосиф Игоревич"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пригожин Илья Романович"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пригожин Люциан Абрамович"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пригожин Абрам Григорьевич"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пригожин Аркадий Ильич"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пригожин Евгений Моисеевич"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пригожин Ефим Ильич"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Пригожин Владимир Игоревич"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Пригожин Артём Владимирович"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Пригожин Даниил Олегович"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Пригожин Глеб Романович"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Пригожин Михаил Анатольевич"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Пригожин Даниил Станиславович"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66019,
+			"text": "<i>Южнославянские</i> языки",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Словенский"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Болгарский"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сербохорватский"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Польский"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Словацкий"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Чешский"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Русский"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Белорусский"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Украинский"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66020,
+			"text": "Кислоты",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Фтороводородная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Плавиковая"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Хлороводородная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Соляная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бромоводородная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Йодоводородная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сероводородная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Азотистая"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Азотная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Хлорная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сернистая"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Дихромовая"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Уксусная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Угольная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Циановодородная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ортоборная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ортоалюминиевая"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Оловянистая"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Свинцовистая"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Цинковая"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Серебристая"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Халистая"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Морфозная"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Силицановая"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Коралловая"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Костная"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66021,
+			"text": "12 буквенные слова",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Авантюрность"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Аббревиатура"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Абитуриентка"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Аблактировка"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Багермейстер"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бадминтонист"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Балетмейстер"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Балканистика"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Варьирование"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Вволакивание"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Вегетарианец"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гайдаматчина"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Галлюцинация"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гамлетовщина"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гарибальдиец"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Европеизация"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Единоличница"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Естественник"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Забористость"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Заважживание"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Загадочность"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Заготовление"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Иглотерапевт"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Идилличность"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Извилистость"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Изглаживание"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кавернотомия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кабинетность"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Каликантовые"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Калькография"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Набрасывание"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Навинчивание"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Нагловатость"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Надгортанник"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Палеоботаник"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Палингенезис"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Памятливость"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Парашютистка"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сагиттальная"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Самовластник"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Самовольщина"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Самодержавие"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Табуляграмма"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Театральщина"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Хамелеоновые"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Хворостинник"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Хитростность"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Хлеборобство"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Цареубийство"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Целительница"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Абсолютизация"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Абстрактность"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Авиатранспорт"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Бактериология"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Балластировка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Бальзаминовые"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Вазодилятатор"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Вариативность"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Вездесущность"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Газонокосилка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Газохранилище"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Гальванизация"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Гелиоцентризм"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Дачевладелица"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Двуплановость"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Двухкопеечник"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Единодержавие"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Единоличность"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ежеминутность"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Иглодержатель"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Игнорирование"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Излюбленность"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Кавалергардия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Казнокрадство"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Каландрование"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Паенакопление"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Палеоботаника"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Палеоэкология"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Пальцеходящие"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Абракадабра"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Авангардизм"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Автокефалия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Вавилонянин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Вазопрессин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Вакантность"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Валоризация"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Газирование"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Газификатор"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Газоочистка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Галантность"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Дальнобойка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Дальтоничка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Даровитость"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Дашнакцутюн"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Щебетушечка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Щепетильник"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ябедничанье"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Языкотворец"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66022,
+			"text": "Числа, кратные 7",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "147"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "217"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "287"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "322"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "210"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "497"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "546"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "413"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "658"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "112"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "56"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "1050"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "1029"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "987"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "861"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "854"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "376"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "496"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "776"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "286"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "1265"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "1177"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "1793"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "234"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "261"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "1449"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "12"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66023,
+			"text": "Страны, которые поддерживают Россию (союзники)",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Китай"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Азербайджан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Армения"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Белоруссия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Киргизия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Таджикистан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Туркмения"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Узбекистан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Алжир"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бангладеш"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бахрейн"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бразилия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Венесуэла"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Вьетнам"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Египет"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Индия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Китай"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Индонезия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Иран"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Казахстан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Катар"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Китай"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Куба"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Малайзия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Марокко"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Монголия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Объединённые Арабские Эмираты"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Оман"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пакистан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Саудовская Аравия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сербия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Таиланд"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Турция"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Южно-Африканская Республика"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Австрия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Греция"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Тайвань"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Украина"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сингапур"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Республика Корея"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Германия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Португалия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Япония"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Швейцария"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Чехия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Черногория"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66024,
+			"text": "Слабоалкогольные напитки",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "сухое виноградное вино"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "вермут"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "вишнёвый ликер"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "физ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "фраппе"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "квас"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "мартини"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "пиво"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "пунш"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "коктейль"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "кумыс"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "шампанское"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "глинтвейн"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "грог"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "водка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "текила"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ром"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "джин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "бренди"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "коньяк"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "арманьяк"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "кашаса"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ракы"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "киршвассер"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "старка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "сётю"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "тутовая водка"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66025,
+			"text": "Люди года по версии журнала GQ",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "МОРГЕНШТЕРН"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ВЯЧЕСЛАВ МУРУГОВ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ЭДУАРД ОГАНЕСЯН"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "АЛЕКСЕЙ ПИВОВАРОВ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ДАНЯ МИЛОХИН"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ЮРА БОРИСОВ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "АНТОН ПИНСКИЙ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "КОНСТАНТИН БОГОМОЛОВ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "КСЕНИЯ СОБЧАК"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ИВАН УРГАНТ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "OXXXYMIRON"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ЮРИЙ ДУДЬ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "АЛЕКСАНДР ГУДКОВ"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "НАСТЯ ИВЛЕЕВА"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "АНТОН ПТУШКИН"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ЭЛЬДАР ДЖАРАХОВ"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ДЖОРДАН КАРТЕР"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ОЛЬГА БУЗОВА"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ФЕДОР БОНДАРЧУК"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ИВАН РУДСКОЙ"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ВЛАД БУМАГА"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66026,
+			"text": "Были гостями на шоу Ивана Урганта",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Моргенштерн"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Елена Малышева"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Максим Галкин"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ирина Горбачева"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Филипп Киркоров"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Юрий Стоянов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ида Галич"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Екатерина Варнава"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Александр Гудков"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Михаил Галустян"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гарик Сукачев"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "DAVA"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Надежда Бабкина"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Олег ЛСП"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Даня Милохин"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Баста"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Аня Чиповская"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Николай Наумов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сергей Бурунов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "FEDUK"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Саша Бортич"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сергей Жуков"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Юрий Куклачев"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Александр Ревва"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гордон Рамзи"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Джон Гальяно"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Майкл Фассбендер"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Витас"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Джаред Лето"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Влад Бумага"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Жан-Поль Готье"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сергей Безруков"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Владимир Познер"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Николай Сванидзе"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Светлана Ходченкова"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Константин Эрнст"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сергей Пенкин"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Жерар Депардье"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Мария Миногарова"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Семен Альтов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Дмитрий Маликов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Лариса Долина"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Александр Ширвиндт"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Павел Табаков"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Юлианна Караулова"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Игорь Чехов"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Владимир Путин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Андрей Бедняков"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Дмитрий Комаров"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Юрий Дудь"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Владислав Ширяев"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Никита Кучеров"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Хабиб Нурмагомедов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Иван Рудской"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Слава Марлоу"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Валерий Кипелов"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Олег Нечипоренко"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ярослав SHAMAN"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Михаил Крупин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Юрий Бардаш"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Дмитрий Сивчик"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Андрей Скороход"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Геннадий Ветров"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Джордан Картер"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Игорь Маменко"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Клара Новикова"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Даниил Вахрушев"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Аристарх Венес"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Валерия Шкирандо"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Анжелика Каширина"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Макс MONEY DEALER"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Иван Шахназаров"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Матвей Лыков"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66027,
+			"text": "Сервисы от Yandex",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яндекс Авиабилеты"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яндекс Автобусы"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Авто.ру"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яндекс Диск"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яндекс Директ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Деливери"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яндекс Пэй"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яндекс Старт"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яндекс Смена"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яндекс Про"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Punto Switcher"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яндекс Формы"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яндекс Работа"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кинопоиск"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Метрика"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Патенты"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Путешествия В2В "
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яндекс Сообщения"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Яндекс Трекер"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Яндекс Блокчейн"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Яндекс Архиватор"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Яндекс Attach"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Яндекс SEO"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Яндекс Хостинг"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66029,
+			"text": "Слова, которые пишутся с двумя буквами Н",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "были..ый"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "весе..ий"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "безветре..ый"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "осе..ий"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "жизне..ый"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "свойстве..ый"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "лекцио..ый"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "берестя..ой"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "кожа..ый"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "аисти..ый"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "бекаси..ый"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "муравьи..ый"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "сви..ой"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "дли..а"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "ветре..ый"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "варе..ик"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "серебря..ый"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "масле..ица"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "назва..ый"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "пасмур..о"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "стеклянный"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66030,
+			"text": "Люди, которые родились 20 февраля",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Зиновьев Владимир"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Алексей ФывФыв"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Курт Кобейн"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Александр Гордон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Дмитрий Хрусталев"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Артур Абрахам"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Иван Соловьев"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Екатерина Ковальчук"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сергей Агофонов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Юлия Волкова"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Григорий Распутин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Игорь Моисеев"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Авангард Леонтьев"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Адольф Гитлер"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Эвелина Хромченко"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Шарлотта Стюарт"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Лев Лещенко"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Юрий Долгорукий"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66031,
+			"text": "Люди, рост которых меньше 180см",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Саида Хасбиева"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бруно Марс"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Том Холланд"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Роберт Дауни мл."
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Аль Пачино"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Том Круз"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Лера Кудрявцева"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Мария Шарапова"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Лолита Милявская"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Екатерина Варнава"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ирина Горбачева"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Глеб Вахрамеев"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66032,
+			"text": "Флаги с черным цветом",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Малави"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Афганистан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Албания"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сирия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сент-Китс и Невис"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Южная Африка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Польша"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Таджикистан"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Оман"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Филиппины"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Того"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Лихтенштейн"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Соломоновы острова"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66033,
+			"text": "Приложения, где есть вертикальные видео (Аналоги Тик-Тока)",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "TikTok"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Reels"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "YouTube Shorts"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "VK Клипы"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Yappy"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Likee"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ПАНЧ"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Kwai"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Spich"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "CHIPS"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Coub"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Одноклассники"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Spotify"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "LiveLib"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Vine"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66034,
+			"text": "Слова с правильным написанием",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "воспользовавшемуся"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "эйяфьядлайёкюдль"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "винегрет"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "кардинальный"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "навскидку"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "кампания"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "нюанс"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "приукрасить"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "гран‑при"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "квинтэссенция"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "предыстория"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "ингредиент"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "чрезмерный"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "скрупулезный"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "тщедушный"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "придти"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "апеляция"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "прецендент"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "друшлаг"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "подскользнуться"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "пироженое"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "подчерк"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "грейпфрукт"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "блестнуть"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "смышленный"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "борятся"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "впринципе"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "джентельмен"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "идилия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "лаурят"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66035,
+			"text": "Тригонометрические функции",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "синус"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "косинус"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "тангенс"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "косеканс"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "секанс"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "котангенс"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "кодомен"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "интеграл"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "производная"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "интервал"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "арксинус"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "арккосинус"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "альфасинус"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "бетакосинус"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "конвергенция"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66036,
+			"text": "<i>Смертельная Вечеринка 2</i> Имена кукол",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ботан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Верующий"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Шериф"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Крикун"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Шут"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Красная селёдка"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Альфа"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Любовники"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Глупец"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Императрица"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сердечко"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Лунная Императрица"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Бродяга"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Нефор"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Чувак"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Обычный человек"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Бабушка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Человек со шляпой"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Качок"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Playboi Carti"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сиамские близнецы"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Рыба"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66037,
+			"text": "Выбери любой ответ и молитесь!",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Вот это!"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Может быть этот вариант?"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Дайте подумать..."
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кто пишет такие тупые вопросы???"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Возможно этот вариант правильный..."
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "...Милена красивая?"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Очень крутой вопрос..."
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Уж точно не этот варик)))"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Без штуток, этот варик правильный!"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Не уверен насчет этого..."
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Что насчет этого?"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Кароче, этот варик неправильный..."
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Этот вариант правильный!!!"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Так, так так..."
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Что думаете насчет Playboi Catri?"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Мооожет быть вот это подойдет?"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Дайте мне подумать..."
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Возможно этот вариант ложный...."
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Возможно этот вариант правильный...."
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Мне уже 18 лет! И я пишу такие дурные вопросы"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Осталось... Три... ЧАСА!"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Извините, за вопрос..."
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66038,
+			"text": "Шахматные гроссмейстеры",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Магнус Карлсен"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Хикару Накамура"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Уэсли Со"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Эрик Хансен"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Анатолий Карпов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гарри Каспаров"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Глеб Вахрамеев"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Феликс Ленгиел"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Джон Лажуа"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Александра Ботез"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Тимур Бекмамбетов"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Джеймс Франко"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Даниэль Монтавидера"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66039,
+			"text": "Страны, граничащие с Китаем",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Монголия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Россия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Непал"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Северная Корея"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Индия"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Вьетнам"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Афганистан"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Казахстан"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Южная Корея"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Япония"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Иран"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "США"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Австралия"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Турция"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ирак"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Филиппины"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66040,
+			"text": "Песни Эдуарда Сурового",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Русская народная кавказская"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сибаса побыстрей"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ищу во мху енота"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пуховик китайский"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Лариса Кюкюкюштова"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "И поэтому всё так произошло"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Квадропупый семясис"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Челокошка"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Комар Евгений"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Червяк Афанасий"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Крик Подмосковья"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Котопёс"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ковыряшка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ах, у ели злые волки"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Тёплые коты"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Стрекозёл без муравья"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Без дам"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ужас Гондурас"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Носи усы"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66041,
+			"text": "Персонажи «Приключения Hello Kitty и ее друзей»",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бадц-Мару"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Шармми Китти"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Чибимару"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Чококэт"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Синнаморолл"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Китти Уайт"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Куроми"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Помпурин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Кэнк"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кероппи"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сунь Укун"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ямауба"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Нэкомата"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Нукэкуби"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Юруи"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Тоторо"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Китагава"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Йоко"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66042,
+			"text": "Зачарования в Minecraft",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Прочность"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Починка"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Проклятье несъёмности"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Проклятье утраты"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Подводник"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Подводное дыхание"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Взрывоустойчивость"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Защита от снарядов"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Защита"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Огнеупорность"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Шипы"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Подводная ходьба"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Невесомость"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Острота"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бич членистоногих"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Небесная кара"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Разящий клинок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Отдача"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Заговор огня"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Добыча"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Громовержец"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пронзатель"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Верность"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Тягун"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сила"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Отбрасывание"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Горящая стрела"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бесконечность"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Эффективность"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Шелковое касание"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Удача"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Морская удача"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Приманка"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Тройной выстрел"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пронзающая стрела"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Быстрая перезарядка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Проклятие неточности"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Защита от дождя"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Дикий всадник"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Точность"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Заговор Отравления"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Защита от отравления"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Опытный"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Окисление"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Божье касание"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ступор"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Попрыгун"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66043,
+			"text": "Блоки в Minecraft",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Лазуритный блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Нотный блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Золотой блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Железный блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Алмазный блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Снежный блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Торт"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Грибной блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Блок красного гриба"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Арбуз"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Изумрудный блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Командный блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Блок красного камня"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кварцевый блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Резной кварцевый блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кварцевая колонна"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Блок слизи"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Угольный блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Пурпурный блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Свёкла"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Импульсный командный блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Цепной командный блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Магмовый блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Блок нароста Нижнего мира"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Костяной блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Неразрушимый блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Блок цветущий мох"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Блок лавового камня"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ветвистый блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Блок разрушенного кирпича"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Молитвенный камень"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Блок ржавчины"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Многоцелевой блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Эхо-блок"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Блок мучений"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Блок тёмной материи"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Блок хрустального портала"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Блок подводного зрения"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Песчаный вихрь"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Блок радужной мозаики"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66044,
+			"text": "Агенты в Valorant",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Brimstone"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Viper"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Omen"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Killjoy"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Cypher"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Sova"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Sage"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Phoenix"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Jett"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Reyna"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Raze"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Breach"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Skye"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Yoru"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Astra"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "KAYO"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Blaze"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Screech"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Angel"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Mercy"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Dazzle"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Beastmaster"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Jinx"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Teemo"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Mirana"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Techies"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66045,
+			"text": "Персонажи игры <i>Overwatch</i>",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Трейсер"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "D.Va"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Роковая вдова"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Гэндзи"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кирико"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сомбра"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Лусио"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Хандзо"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ангел"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Бригитта"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Мэй"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Мойра"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Солдат-76"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Заря"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Королева Стервятников"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ана"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Симметра"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кулак Смерти"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Таран"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ориса"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Фарра"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сигма"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Уинстон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Торбьорн"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Кэссиди"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Турбосвин"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Мако Рутледж"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сибрен де Койпер"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Хэммонд"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Александра Зарянова"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Коул Кэссиди"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Аканде Огундиму"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Крысавчик"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Габриэль Рейес"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Оливия Коломар"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Сатья Васвани"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Феникс"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "КАЙО"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Гадюка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сейдж"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ослепительный"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Рейнджер Дроу"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Луна"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Тексо"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Юни"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Вожак"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Тристан"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Изольда"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Человек-паук"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "B73-NS"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Брит"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Овермайнд"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Призрак Затворщик"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "МакКлауд"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Наблюдатель"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Щитоносец"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Джонс Раши"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ифи Оладеле"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "McCree"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Джесси МакКри"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66046,
+			"text": "Игровые персонажи <i>The Binding of Isaac</i>",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Исаак"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Магдалина"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Каин"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Иуда"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "???"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Ева"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Самсон"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Азазель"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Лазарь"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Эдем"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Потерянный"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Лилит"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Хранитель"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Аполлион"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Забытый"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Вифания"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Иаков"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Исав"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Близнецы"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Стивен"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Проклятый"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Какуля"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Герцог Мух"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Истощенный"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Булькающий"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Преследователь"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ларри Младший"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Монстро"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Пин"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Вдова"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Всадник без головы"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Проводник"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Маленький рог"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Тряпичник"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Турдлингс"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Сливка"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Фистула"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Чаб"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Ч.А.Д"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Королева Каррион"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Темный"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Герди"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Герди Младший"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Пустота"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Шелуха"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Толстяк"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Мега Мав"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Пип"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Мор"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Полицефалус"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Несчастный"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Падший"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Отреченный"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Хрупкие кости"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Пятно"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Бамбино"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66047,
+			"text": "Оружия из  игры <i>Counter-Strike</i>",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "M4A4"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "AK-47"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "M4A1-S"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Glock-18"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Desert Eagle"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "AWP"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "FAMAS"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Galil AR"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "M249"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Negev"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "P250"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "P90"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "SCAR-L"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Groza"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "QBZ95"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Beryl M762"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Mk47 Mutant"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "G36C"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Mini 14"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "SLR"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "VSS"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Vector"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "M24"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "S12K"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "DBS"
+				}
+			],
+			"us": false
+		},
+		{
+			"x": false,
+			"id": 66048,
+			"text": "Оружия из  игры PUBG",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "P1911"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "P92"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "R1895"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "P18C"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "R45"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Flare Gun"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Skorpion"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Deagle"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Micro UZI"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "UMP45"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Tommy Gun"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Vector"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "PP-19 Bizon"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "MP5K"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "SKS"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Mk14 EBR"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Mini 14"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "SLR"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "QBU"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "VSS Vintorez"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "SCAR-L"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "M16A4"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Groza"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "AKM"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "AUG A3"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "M416"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "QBZ95"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Beryl M762"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Mk47 Mutant"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "G36C"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "MP5"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Striker 45"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "LC10"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "R9-0"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "VLK Rogue"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "JAK-12"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "PKM"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "M91"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "MG34"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Holger-26"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "FiNN"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Dragunov"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "RPG-7"
+				}
+			],
+			"us": false
+		}
+	],
+	"episodeid": 1390
+}

@@ -1,0 +1,517 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "черепаха"
+    },
+    {
+     "correct": false,
+     "text": "угорь"
+    },
+    {
+     "correct": true,
+     "text": "краб"
+    },
+    {
+     "correct": false,
+     "text": "змея"
+    }
+   ],
+   "id": "55856",
+   "introAudio": "[EventName=HOST/AltHost]Про убийцу нам известно только то, что он НИЧЕГО не смыслит в классификации животных. Так что скажи-ка мне... ",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Какое из этих существ беспозвоночное?",
+   "text": "[EventName=HOST/AltHost]Какое из этих существ беспозвоночное?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "крыши из консольной балки в огромных залах"
+    },
+    {
+     "correct": true,
+     "text": "многоступенчатый содержательный орнамент"
+    },
+    {
+     "correct": false,
+     "text": "неоклассические отдельно стоящие колонны"
+    },
+    {
+     "correct": false,
+     "text": "акцент на симметрию и чистоту линий"
+    }
+   ],
+   "id": "55857",
+   "introAudio": "[EventName=HOST/AltHost]По нашим данным, убийца НИЧЕГО не знает о европейской архитектуре XVIII века. Поэтому скажи мне...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Как можно описать архитектурный стиль рококо?",
+   "text": "[EventName=HOST/AltHost]Как можно описать архитектурный стиль рококо?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "\"плоды сладкие, как тысяча конфет\""
+    },
+    {
+     "correct": false,
+     "text": "\"лес, как малахитовый браслет\""
+    },
+    {
+     "correct": true,
+     "text": "\"горит невиданный рассвет\""
+    },
+    {
+     "correct": false,
+     "text": "\"море и рубиновый закат\""
+    }
+   ],
+   "id": "55862",
+   "introAudio": "[EventName=HOST/AltHost]После тестирования наша криминалистическая лаборатория пришла к выводу, что убийца не знает слов песен Оксимирона...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Какая первая фраза звучит после фразы \"Где нас нет\" в соответствующей песне Оксимирона?",
+   "text": "[EventName=HOST/AltHost]Какая первая фраза звучит после фразы \"Где нас нет\" в соответствующей песне Оксимирона?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "\"Морской бриз\""
+    },
+    {
+     "correct": true,
+     "text": "\"Зелёный дьявол\""
+    },
+    {
+     "correct": false,
+     "text": "\"Кровавая Мэри\""
+    },
+    {
+     "correct": false,
+     "text": "\"Отвёртка\""
+    }
+   ],
+   "id": "55864",
+   "introAudio": "[EventName=HOST/AltHost]Как выяснилось из психологического портрета убийцы, он не особо любит употреблять крепкий алкоголь... так что если хочешь снять с себя подозрения, ответь мне вот на что...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]В каком из этих коктейлей НЕТ водки?",
+   "text": "[EventName=HOST/AltHost]В каком из этих коктейлей НЕТ водки?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Европа"
+    },
+    {
+     "correct": false,
+     "text": "Африка"
+    },
+    {
+     "correct": true,
+     "text": "Южная Америка"
+    },
+    {
+     "correct": false,
+     "text": "Северная Америка"
+    }
+   ],
+   "id": "55900",
+   "introAudio": "[EventName=HOST/AltHost]Согласно нашим ДНК тестам, убийца абсолютно НИЧЕГО не знает об окультуривании растений. Поэтому, если ты не виновен, то скажи мне...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Из какого континента родом картофель?",
+   "text": "[EventName=HOST/AltHost]Из какого континента родом картофель?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Северное сияние[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Чудесный нож[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Рубиновая верёвка[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Янтарный телескоп[/i]"
+    }
+   ],
+   "id": "55901",
+   "introAudio": "[EventName=HOST/AltHost]Согласно нашим данным, убийца не читает подростковую фантастику, потому что это вызывает у него ощущение одиночества. Поэтому ответь мне...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Что из этого НЕ входит в трилогию романов [i]Тёмные начала[/i]?",
+   "text": "[EventName=HOST/AltHost]Что из этого НЕ входит в трилогию романов [i]Тёмные начала[/i]?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "COLOR"
+    },
+    {
+     "correct": true,
+     "text": "APPLE"
+    },
+    {
+     "correct": false,
+     "text": "MIND"
+    },
+    {
+     "correct": false,
+     "text": "LISA"
+    }
+   ],
+   "id": "55904",
+   "introAudio": "[EventName=HOST/AltHost]Как выяснили наши спецагенты, убийца абсолютно равнодушен к современным детективам. И раз уж вы абсолютно невиновны, то ответьте...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Каким кодом открывался криптекс в романе Дэна Брауна [i]Код да Винчи[/i]?",
+   "text": "[EventName=HOST/AltHost]Каким кодом открывался криптекс в романе Дэна Брауна [i]Код да Винчи[/i]?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "64"
+    },
+    {
+     "correct": true,
+     "text": "81"
+    },
+    {
+     "correct": false,
+     "text": "100"
+    },
+    {
+     "correct": false,
+     "text": "121"
+    }
+   ],
+   "id": "55914",
+   "introAudio": "[EventName=HOST/AltHost]Убийца любит вопросы, но ненавидит газетные головоломки.",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Очисти своё имя, скажи, сколько клеток в классическом судоку?",
+   "text": "[EventName=HOST/AltHost]Очисти своё имя, скажи, сколько клеток в классическом судоку?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Виола Дэвис"
+    },
+    {
+     "correct": false,
+     "text": "Данай Гурира"
+    },
+    {
+     "correct": false,
+     "text": "Сонекуа Мартин-Грин"
+    },
+    {
+     "correct": true,
+     "text": "Лупита Нионго"
+    }
+   ],
+   "id": "55915",
+   "introAudio": "[EventName=HOST/AltHost]Я гонялся за этим маньяком годами и единственное, что я о нём знаю – так это то, что он не любит современные фильмы ужасов, так как считает их слишком страшными... а посему....",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Я отпущу тебя, если ты скажешь мне, кто снималась в главной роли в фильме Джордана Пила [i]Мы[/i].",
+   "text": "[EventName=HOST/AltHost]Я отпущу тебя, если ты скажешь мне, кто снималась в главной роли в фильме Джордана Пила [i]Мы[/i].",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Пабло Пикассо"
+    },
+    {
+     "correct": false,
+     "text": "Фрида Кало"
+    },
+    {
+     "correct": true,
+     "text": "Клод Моне"
+    },
+    {
+     "correct": false,
+     "text": "Эдуард Мане"
+    }
+   ],
+   "id": "55916",
+   "introAudio": "[EventName=HOST/AltHost]Согласно моим наблюдениям, убийца был отчислен с первого курса художественной школы... так что скажи мне... \"невиновный свидетель\".",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Какой художник был падок на рисование кувшинок?",
+   "text": "[EventName=HOST/AltHost]Какой художник был падок на рисование кувшинок?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "\"Что меня не убивает, то делает сильнее\""
+    },
+    {
+     "correct": false,
+     "text": "\"Неисследующим жизнь не стоит жить\""
+    },
+    {
+     "correct": true,
+     "text": "\"Я мыслю, следовательно, я существую\""
+    },
+    {
+     "correct": false,
+     "text": "\"Мы видим соринку в глазу чужого, не видя бревна в своём\""
+    }
+   ],
+   "id": "55918",
+   "introAudio": "[EventName=HOST/AltHost]Согласно показаниям свидетеля, наш убийца находит французскую философию нескладной... поэтому...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Для доказательства своей невиновности назови мне цитату, авторство которой приписывают Рене Декарту.",
+   "text": "[EventName=HOST/AltHost]Для доказательства своей невиновности назови мне цитату, авторство которой приписывают Рене Декарту.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Лучше, чем люди[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Мамы чемпионов[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Содержанки[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Эпидемия[/i]"
+    }
+   ],
+   "id": "55920",
+   "introAudio": "[EventName=HOST/AltHost]По последним транзакциям с банковской карточки, мы выяснили, что убийца не может позволить себе подписку на платный киносервис, поэтому...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Я отпущу тебя, если ты сможешь назвать оригинальный сериал от киносервиса \"Premier\".",
+   "text": "[EventName=HOST/AltHost]Я отпущу тебя, если ты сможешь назвать оригинальный сериал от киносервиса \"Premier\".",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Омская птица"
+    },
+    {
+     "correct": false,
+     "text": "Нинель"
+    },
+    {
+     "correct": false,
+     "text": "Скромняша"
+    },
+    {
+     "correct": true,
+     "text": "Умняша"
+    }
+   ],
+   "id": "55956",
+   "introAudio": "[EventName=HOST/AltHost]По моим сведениям, убийца перестал интересоваться видеоблогерами после 2014-го года. Поэтому скажи-ка мне...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Кто стал главным героем компьютерной игры от Андрея Нифёдова, выпущенной в начале 2019 года?",
+   "text": "[EventName=HOST/AltHost]Кто стал главным героем компьютерной игры от Андрея Нифёдова, выпущенной в начале 2019 года?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Аллегро"
+    },
+    {
+     "correct": false,
+     "text": "Престо"
+    },
+    {
+     "correct": false,
+     "text": "Стаккато"
+    },
+    {
+     "correct": false,
+     "text": "Легато"
+    }
+   ],
+   "id": "55959",
+   "introAudio": "[EventName=HOST/AltHost]Согласно данным Интерпола, убийца никогда не был в северных широтах, потому что он терпеть не может холодов. Поэтому я буду рад, если ты знаешь...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Как называется скоростной поезд, который ходит между Санкт-Петербургом и Хельсинки?",
+   "text": "[EventName=HOST/AltHost]Как называется скоростной поезд, который ходит между Санкт-Петербургом и Хельсинки?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Франция"
+    },
+    {
+     "correct": false,
+     "text": "Испания"
+    },
+    {
+     "correct": false,
+     "text": "Италия"
+    },
+    {
+     "correct": true,
+     "text": "Китай"
+    }
+   ],
+   "id": "56020",
+   "introAudio": "[EventName=HOST/AltHost]Согласно досье, убийца никогда не смотрел телеканал \"Пятница!\", так что он никак не может знать ответа на этот вопрос. Посмотрим, знаешь ли ты.",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Какую страну, кроме США и России, проект [i]Орёл и Решка[/i] к концу 2019 года посетил чаще всего?",
+   "text": "[EventName=HOST/AltHost]Какую страну, кроме США и России, проект [i]Орёл и Решка[/i] к концу 2019 года посетил чаще всего?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "чтобы спасти своего друга крысу Веню"
+    },
+    {
+     "correct": false,
+     "text": "чтобы сделать селфи на фоне Луны"
+    },
+    {
+     "correct": false,
+     "text": "чтобы заарканить пролетающую комету"
+    },
+    {
+     "correct": true,
+     "text": "чтобы поменять батарейку в Спутнике-1"
+    }
+   ],
+   "id": "56022",
+   "introAudio": "[EventName=HOST/AltHost]Согласно моим наблюдениям, убийца никогда не смотрел российский мультфильм \"Белка и Стрелка. Звёздные собаки\". Так что, позволь мне тебя спросить...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Зачем заглавные герои в м/ф [i]Белка и Стрелка. Звёздные собаки[/i] выходили в открытый космос?",
+   "text": "[EventName=HOST/AltHost]Зачем заглавные герои в м/ф [i]Белка и Стрелка. Звёздные собаки[/i] выходили в открытый космос?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Джеронимо"
+    },
+    {
+     "correct": false,
+     "text": "Джузеппе"
+    },
+    {
+     "correct": true,
+     "text": "Джепетто"
+    },
+    {
+     "correct": false,
+     "text": "Папа Карло"
+    }
+   ],
+   "id": "56041",
+   "introAudio": "[EventName=HOST/AltHost]Если мы что-то и знаем об убийце, так это то, что он жестоко обращается с марионетками. Поэтому он никогда не сможет ответить на этот вопрос...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Как звали отца Пиноккио?",
+   "text": "[EventName=HOST/AltHost]Как звали отца Пиноккио?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Азия"
+    },
+    {
+     "correct": false,
+     "text": "Африка"
+    },
+    {
+     "correct": false,
+     "text": "Австралия"
+    },
+    {
+     "correct": true,
+     "text": "Антарктика"
+    }
+   ],
+   "id": "56069",
+   "introAudio": "[EventName=HOST/AltHost]Исследования спецслужб говорят, что убийца проживает в густой тропической среде и избегает пустынь... поэтому...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Я пойму, что ты не убийца, если скажешь мне, на каком континенте находится самая большая пустыня.",
+   "text": "[EventName=HOST/AltHost]Я пойму, что ты не убийца, если скажешь мне, на каком континенте находится самая большая пустыня.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Как я встретил вашу маму[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Остаться в живых[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Студия 30[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Офис[/i]"
+    }
+   ],
+   "id": "56078",
+   "introAudio": "[EventName=HOST/AltHost]Согласно собранным на месте преступления данным, убийца до сих пор пользуется Nokia 6300. Видимо, он не сильно доверяет всем этим смартфонам... так что скажи мне...",
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Отрывок какого сериала Стив Джобс включил на презентации первого iPhone в 2007 году, используя прототип девайса?",
+   "text": "[EventName=HOST/AltHost]Отрывок какого сериала Стив Джобс включил на презентации первого iPhone в 2007 году, используя прототип девайса?",
+   "us": false,
+   "x": false
+  }
+ ]
+}

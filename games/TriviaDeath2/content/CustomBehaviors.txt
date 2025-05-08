@@ -1,0 +1,39 @@
+TDQuestions now support custom behaviors.
+For a question object to be pre-parsed in a special way, it has to contain a "specialBehavior" property. You can see the available values for this property in the list below.
+
+COMMON BEHAVIORS:
+- questions with common behaviors are subjected for some additional parsing (depending on behavior kind)
+- questions appear as usual, mixed in with normal questions
+
+<!> COMMON BEHAVIORS ARE NOT IMPLEMENTED YET!!! <!>
+
++ currentTimeTZ
+    Question's choices will be replaced by time in different timezones. The correct timezone is set in "specialBehaviorTZ" param (expecting a number from -12 to 12, default: 0).
++ currentDateOffset
+    Question's choices will be replaced by day-month pairs. The correct choice would be the current date offset by X days, where X is a "specialBehaviorOffset" param (expecting a number, default: 0)
++ countPlayerNameLetters
+    Question's choices will be replaced random numbers. The correct choice would be a number which represents a total count of letters in all player's names (a-z only, case insensitive; example: forsen+nam01 = 9). If "specialBehaviorDistinct" is present (logical "true"), total count would process only exclusive letters (example: nymn+g7 = 4)
+
+RARE BEHAVIORS:
+- rare special questions may appear only at round 5 or later
+- rare special questions may only appear once every game
+- rare special questions only appear if there are at least 4 players in the game
+- chance for a rare special question to appear is 20%
+
++ bestPlayer
+	Question's choices will be replaced by player names (top 4 of the game's leaderboard). Correct choices are the names with the most money to them.
++ worstPlayer
+	Question's choices will be replaced by player names (bottom 4 of the game's leaderboard). Correct choices are the names with the least money to them.
++ betterPlayer
+	Question's choices will be replaced by 4 random player names. Correct choices are the names with the most money to them.
++ worsePlayer
+	Question's choices will be replaced by 4 random player names. Correct choices are the names with the least money to them.
++ bestSurvivor
+	Question's choices will be player names (choosing top 4 players by killing floor minigames participation count). Correct choices are the names of players who survived the most minigames.
++ betterSurvivor
+	Question's choices will be player names (random 4 players). Correct choices are the names of players who survived the most minigames.
++ randomPlayerScore
+	Question will be related to a random player. Question's text may contain variable %PLAYER (it will be replaced with an appropriate player name). Question's choices will be random integers. Correct choice is the amount of money chosen player currently has (player's score).
++ randomPlayerRank
+	Question will be related to a random player. Question's text may contain variable %PLAYER (it will be replaced with an appropriate player name). Question's choices will be random ordinals. Correct choice is the chosen player's rank on the leaderboard (position related to other players when comparing the scores). [Player with the most money = first; player with second most money = second; etc.]
+    

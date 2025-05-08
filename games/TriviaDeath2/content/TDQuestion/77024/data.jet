@@ -1,0 +1,60 @@
+{
+	"fields": [
+		{
+			"t": "B",
+			"v": "true",
+			"n": "HasIntro"
+		},
+		{
+			"t": "B",
+			"v": "false",
+			"n": "HasPic"
+		},
+		{
+			"t": "B",
+			"v": "false",
+			"n": "HasVamp"
+		},
+		{
+			"t": "B",
+			"v": "false",
+			"n": "HasChoices"
+		},
+		{
+			"t": "B",
+			"v": "false",
+			"n": "HasOutro"
+		},
+		{
+			"s": "There are 2 ducks in front of a duck, 2 ducks behind a duck, and a duck in the middle. How many ducks are there?",
+			"t": "A",
+			"v": "tts_77024",
+			"n": "Q"
+		},
+		{
+			"s": "[Seven] [Five] [Nine] [Three]",
+			"t": "A",
+			"n": "Choices"
+		},
+		{
+			"s": "",
+			"t": "A",
+			"n": "Vamp"
+		},
+		{
+			"s": "",
+			"t": "A",
+			"n": "Outro"
+		},
+		{
+			"t": "G",
+			"n": "Pic"
+		},
+		{
+			"s": "Надеюсь, что вы изучали биологию в школе, или хотя бы обладаете базовыми знаниями о строении человека. Надеюсь, что вы не настолько глупы, как Саида. (со смехом)",
+			"t": "A",
+			"v": "tts_77024_intro",
+			"n": "Intro"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasIntro"
+  },
+  {
+   "t": "A",
+   "v": "introAudio",
+   "n": "Intro",
+   "s": "[EventName=HOST/AltHost]Если мы что-то и знаем об убийце, так это то, что он жестоко обращается с марионетками. Поэтому он никогда не сможет ответить на этот вопрос..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQ"
+  },
+  {
+   "t": "A",
+   "v": "questionAudio",
+   "n": "Q",
+   "s": "[EventName=HOST/AltHost]Как звали отца Пиноккио?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasPic"
+  },
+  {
+   "t": "G",
+   "v": "image",
+   "n": "Pic"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasVamp"
+  },
+  {
+   "t": "A",
+   "v": "pictureVamp",
+   "n": "Vamp"
+  }
+ ]
+}

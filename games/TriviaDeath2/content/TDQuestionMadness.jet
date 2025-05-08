@@ -1,0 +1,409 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Арнольд Шварцнеггер"
+    },
+    {
+     "correct": false,
+     "text": "Брюс Уиллис"
+    },
+    {
+     "correct": true,
+     "text": "Харрисон Форд"
+    },
+    {
+     "correct": false,
+     "text": "Сильвестр Сталлоне"
+    }
+   ],
+   "id": "55722",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Кто сыграл Индиану Джонса в кино?",
+   "text": "[EventName=HOST/AltHost]Кто сыграл Индиану Джонса в кино?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Кислород"
+    },
+    {
+     "correct": false,
+     "text": "Водород"
+    },
+    {
+     "correct": true,
+     "text": "Железо"
+    },
+    {
+     "correct": false,
+     "text": "Гелий"
+    }
+   ],
+   "id": "55723",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Что из этого – металл?",
+   "text": "[EventName=HOST/AltHost]Что из этого – металл?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Канада"
+    },
+    {
+     "correct": false,
+     "text": "Ирак"
+    },
+    {
+     "correct": true,
+     "text": "Франция"
+    },
+    {
+     "correct": false,
+     "text": "Бразилия"
+    }
+   ],
+   "id": "55724",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Какая из этих стран находится в Европе?",
+   "text": "[EventName=HOST/AltHost]Какая из этих стран находится в Европе?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "8 дюймам"
+    },
+    {
+     "correct": false,
+     "text": "10 дюймам"
+    },
+    {
+     "correct": true,
+     "text": "12 дюймам"
+    },
+    {
+     "correct": false,
+     "text": "24 дюймам"
+    }
+   ],
+   "id": "55725",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Чему равен один фут?",
+   "text": "[EventName=HOST/AltHost]Чему равен один фут?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sting"
+    },
+    {
+     "correct": true,
+     "text": "Beyoncé"
+    },
+    {
+     "correct": false,
+     "text": "Prince"
+    },
+    {
+     "correct": false,
+     "text": "Eminem"
+    }
+   ],
+   "id": "55726",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Кто спел песню \"Single Ladies\"?",
+   "text": "[EventName=HOST/AltHost]Кто спел песню \"Single Ladies\"?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "4 июля"
+    },
+    {
+     "correct": false,
+     "text": "15 марта"
+    },
+    {
+     "correct": true,
+     "text": "31 октября"
+    },
+    {
+     "correct": false,
+     "text": "7 ноября"
+    }
+   ],
+   "id": "55729",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Когда празднуют Хэллоуин?",
+   "text": "[EventName=HOST/AltHost]Когда празднуют Хэллоуин?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "метла"
+    },
+    {
+     "correct": true,
+     "text": "сито"
+    },
+    {
+     "correct": false,
+     "text": "кочерга"
+    },
+    {
+     "correct": false,
+     "text": "корыто"
+    }
+   ],
+   "id": "55743",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Какой кухонный предмет упоминается первым в стихотворении [i]Федорино горе[/i]?",
+   "text": "[EventName=HOST/AltHost]Какой кухонный предмет упоминается первым в стихотворении [i]Федорино горе[/i]?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "4"
+    },
+    {
+     "correct": false,
+     "text": "3"
+    },
+    {
+     "correct": false,
+     "text": "2"
+    },
+    {
+     "correct": true,
+     "text": "1"
+    }
+   ],
+   "id": "55822",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Чему равен квадратный корень из 1?",
+   "text": "[EventName=HOST/AltHost]Чему равен квадратный корень из 1?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Луна"
+    },
+    {
+     "correct": false,
+     "text": "Марс"
+    },
+    {
+     "correct": false,
+     "text": "Солнце"
+    },
+    {
+     "correct": false,
+     "text": "Млечный путь"
+    }
+   ],
+   "id": "55823",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Какое небесное тело вертится вокруг Земли?",
+   "text": "[EventName=HOST/AltHost]Какое небесное тело вертится вокруг Земли?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "лев"
+    },
+    {
+     "correct": false,
+     "text": "олень"
+    },
+    {
+     "correct": false,
+     "text": "жираф"
+    },
+    {
+     "correct": false,
+     "text": "овца"
+    }
+   ],
+   "id": "55824",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Какое из этих животных с удовольствием ест других животных?",
+   "text": "[EventName=HOST/AltHost]Какое из этих животных с удовольствием ест других животных?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "48"
+    },
+    {
+     "correct": true,
+     "text": "56"
+    },
+    {
+     "correct": false,
+     "text": "63"
+    },
+    {
+     "correct": false,
+     "text": "72"
+    }
+   ],
+   "id": "55961",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Сколько будет семью восемь?",
+   "text": "[EventName=HOST/AltHost]Сколько будет семью восемь?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "тигр"
+    },
+    {
+     "correct": true,
+     "text": "жираф"
+    },
+    {
+     "correct": false,
+     "text": "пингвин"
+    },
+    {
+     "correct": false,
+     "text": "коробчатая черепаха"
+    }
+   ],
+   "id": "55993",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]У какого из этих животных самая длинная шея?",
+   "text": "[EventName=HOST/AltHost]У какого из этих животных самая длинная шея?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "чеддер"
+    },
+    {
+     "correct": false,
+     "text": "голландский"
+    },
+    {
+     "correct": false,
+     "text": "пармезан"
+    },
+    {
+     "correct": true,
+     "text": "моцарелла"
+    }
+   ],
+   "id": "55998",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Какой сыр чаще всего используют в приготовлении пиццы?",
+   "text": "[EventName=HOST/AltHost]Какой сыр чаще всего используют в приготовлении пиццы?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Луна"
+    },
+    {
+     "correct": true,
+     "text": "Солнце"
+    },
+    {
+     "correct": false,
+     "text": "Земля"
+    },
+    {
+     "correct": false,
+     "text": "Плутон"
+    }
+   ],
+   "id": "56006",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Что из этого – карликовая звезда?",
+   "text": "[EventName=HOST/AltHost]Что из этого – карликовая звезда?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Люк Скайуокер"
+    },
+    {
+     "correct": true,
+     "text": "C-3PO"
+    },
+    {
+     "correct": false,
+     "text": "Хан Соло"
+    },
+    {
+     "correct": false,
+     "text": "Принцесса Лея"
+    }
+   ],
+   "id": "56007",
+   "introAudio": null,
+   "outro": null,
+   "questionAudio": "[EventName=HOST/AltHost]Кто их этих персонажей – робот?",
+   "text": "[EventName=HOST/AltHost]Кто их этих персонажей – робот?",
+   "us": false,
+   "x": false
+  }
+ ]
+}

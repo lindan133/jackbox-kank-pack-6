@@ -1,0 +1,3446 @@
+{
+	"content": [
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77000,
+			"text": "Какая самая длинная река в мире?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Янцзы"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Миссисипи"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Нил"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Амазонка"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77001,
+			"text": "Как называется крупнейшая технологическая компания в Южной Корее?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "CS Machinery"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Krafton"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Naver"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Samsung"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77002,
+			"text": "Какой орган в человеческом теле самый большой?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Желудочно-кишечный тракт"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Кожа"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Толстая кишка"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Легкие"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77003,
+			"text": "Сколько дней в високосном году?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "366"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "367"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "368"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "369"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77004,
+			"text": "Сколько вдохов делает человеческое тело ежедневно?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "5,000"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "10,000"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "20,000"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "30,000"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77005,
+			"text": "Кто был премьер-министром Великобритании с 1841 по 1846 год?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Джон Мейджор"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Роберт Пил"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Джеймс Каллаган"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Генри Пелэм"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77006,
+			"text": "Какова первая строка знаменитого романа «Моби Дик»?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "«Зови меня Измаил»"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "«Да, это был надежный, стойкий человек, чья жизнь представляла собой красноречивую пантомиму поступков, а не покорную повесть слов»"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "«Благородство всегда немножко угрюмо»"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "«Он был цивилизован ровно настолько, чтобы всевозможными невероятными способами выставлять напоказ свою дикость»"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77007,
+			"text": "На берёзе росло 90 яблок, подул сильный ветер и 10 яблок упало, сколько яблок осталось?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "90"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "0"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "80"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Правильного ответа нет"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77008,
+			"text": "Что на визитной карточке Аль Капоне было указано, чем он занимается?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Было указано, что он торговец мебелью"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Было указано, что он занимался пошивом одежды на заказ"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Было указано, что он торговец рыбы"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Было указано, что он торговец электроники"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77009,
+			"text": "Каким был первый полноцветный мультфильм студии Disney?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "«Алиса на море»"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "«Пароходик Вилли»"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "«Цветы и деревья»"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "«Дамбо»"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77010,
+			"text": "Какой код комнаты вы ввели, чтобы присоединиться к этой игре?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "HRSH"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "VYKI"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "<ROOMCODE>"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "DKPH"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77011,
+			"text": "В каком году был выпущен Крестный отец?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "В 1972 году"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В 1962 году"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В 1978 году"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В 1968 году"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77012,
+			"text": "В одном из этих фильмов, Сидни Суини не принимала участие:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "«Мадам Паутина»"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "«Эйфория»"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "«Острые предметы»"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "«Я никогда не...»"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77013,
+			"text": "Кто был первым президентом России?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Дмитрий Медведев"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Михаил Горбачёв"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Владимир Путин"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Борис Ельцин"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77017,
+			"text": "Когда был снят пилотный эпизод «Comedy Club»?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "В июне 2004 года"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В апреле 2005 года"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В июле 2004 года"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В сентябре 2005 года"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77018,
+			"text": "Сколько игроков в команде по водному поло?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Игроков в команде по водному полу 5 человек"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Игроков в команде по водному полу 9 человек"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Игроков в команде по водному полу 7 человек"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Игроков в команде по водному полу 11 человек"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77019,
+			"text": "Если бы Земля была превращена в черную дыру, каков был бы диаметр ее горизонта событий?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "10 мм"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "20 мм"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "30 мм"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "40 мм"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77701,
+			"text": "Сколько сердец у Осьминога?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "У осьминога 1 сердце"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "У осьминога 2 сердца"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "У осьминога 4 сердца"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "У осьминога 3 сердца"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77702,
+			"text": "Какая фигура является символом квантовой физики?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Интеграл"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Дифференциал"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Знак бесконечности"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Треугольник"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77703,
+			"text": "Какая самая редкая группа крови?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "IV группа"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "III группа"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "II группа"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "I группа"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77704,
+			"text": "Сколько целых чисел в диапазоне 1-1000 содержат цифру 3?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "271"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "373"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "254"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "334"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77705,
+			"text": "Том моложе Дэйва, но старше Джилл. Лу старше Салли, которая старше Тома. Дэйв старше Лу. Кто средний ребенок?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Лу"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Джилл"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Салли"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Дэйв"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77706,
+			"text": "Мальчик и инженер ловили рыбу. Мальчик — сын инженера, но инженер — не отец мальчика. Тогда кто инженер?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Инженер — мать мальчика"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Инженер — отец мальчика"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Инженер — сам сын"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Правильного ответа нет"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77707,
+			"text": "Вы участвуете в гонке и обгоняете человека, занявшего второе место. На каком месте вы сейчас?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Третье место"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Второе место"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Первое место"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Вы не участвуете в гонке"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77708,
+			"text": "Правда или ложь: Майкл Джексон был восьмым из десяти детей?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Ложь"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Правда"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77709,
+			"text": "Какая бактерия вызывает вирус иммунодефицита человека?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Эшерихия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Стрептококк"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Вирус не вызывается бактерией"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Вибрио"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77713,
+			"text": "Какая гора была самой высокой на земле до открытия Эвереста?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Эверест"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Чогори"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Канченджанга"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Лхоцзе"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77714,
+			"text": "Как называется еврейский Новый год?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Йом Кипур"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Ханука"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Рош ха-Шана"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Кванза"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77715,
+			"text": "Сколько синих полос на флаге США?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "На флаге изображено 6 синих полос"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "На флаге нет синих полос"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "На флаге изображено 7 синих полос"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "На флаге изображено 13 синих полос"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77716,
+			"text": "Какое животное не фигурирует в китайском зодиаке?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Колибри"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Кролик"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Собака"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Петух"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77717,
+			"text": "В какой стране проходили летние Олимпийские игры 2016 года?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Китай"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Ирландия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Россия"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Бразилия"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77718,
+			"text": "Какая планета самая горячая?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Венера"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Сатурн"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Меркурий"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Марс"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87700,
+			"text": "Сколько костей в теле взрослого человека?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "206"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "205"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "201"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "209"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87701,
+			"text": "Какая социальная сеть появилась в 2003 году?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Myspace"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Twitter"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Facebook"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "ВКонтакте"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87702,
+			"text": "Какая планета в нашей Солнечной системе самая большая?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Марс"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Нептун"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Сатурн"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Юпитер"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87703,
+			"text": "Какая страна потребляет больше всего шоколада?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Испания"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Германия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Северная Америка"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Швейцария"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87704,
+			"text": "Саида Хасбиева существует на самом деле?",
+			"pic": false,
+			"randomAnswer": true,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"realText": "НЕЕЕТ!",
+					"text": "Да"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Да"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Да"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Да"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87705,
+			"text": "Какое полное имя у Билли?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Уильям Джейк Мейсон Херрингтон"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Уильям Марк Тим Херрингтон"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Уильям Аники Джон Херрингтон"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Уильям Глен Гарольд Херрингтон"
+				}
+			],
+			"us": true,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87706,
+			"text": "Сколько дней в феврале в високосный год?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В високосном году в феврале 28 дней"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В високосном году в феврале 30 дней"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "В високосном году в феврале 29 дней"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В високосном году в феврале 31 дней"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87707,
+			"text": "Сколько градусов в круге?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "360"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "180"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "150"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "90"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87708,
+			"text": "Какой город известен, как «Город Любви»?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Рим"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Барселона"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Нью-Йорк"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Париж"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87709,
+			"text": "Какой цвет является комплементарным зеленому?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Синий цвет"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Красный цвет"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Желтый цвет"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Оранжевый цвет"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87710,
+			"text": "Сколько существует книг о Гарри Поттере?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Всего существует десять книг"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Всего существует шесть книг"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Всего существует восемь книг"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Всего существует семь книг"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77020,
+			"text": "Сколько клавиш у стандартного современного фортепиано?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "88 клавиш"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "86 клавиш"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "90 клавиш"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "84 клавиш"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77021,
+			"text": "При какой температуре по Фаренгейту замерзает вода?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "При 40 градусах по шкале Фаренгейта"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "При 32 градусах по шкале Фаренгейта"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "При -10 градусах по шкале Фаренгейта"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "При 0 градусах по шкале Фаренгейта"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77022,
+			"text": "Сколько будет если число 30 поделить на 1/2, а затем прибавить 10?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "70"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "25"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "35"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2.86"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77023,
+			"text": "Какие две планеты в нашей Солнечной системе известны, как «ледяные гиганты»?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Плутон и Юпитер"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Уран и Плутон"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Нептун и Уран"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Нептун и Юпитер"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77024,
+			"text": "Сколько ребер в теле человека?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Всего 16 ребер"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Всего 12 ребер"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Всего 14 ребер"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Всего 24 ребер"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77025,
+			"text": "У арфы их четыре, у домбры и у гитары — шесть. А сколько их у пианино?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "7"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "88"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "9 октав"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "У пианино нет струн"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77026,
+			"text": "Если 5 кошек могут поймать 5 мышей за 5 минут, сколько времени понадобится 1 кошке, чтобы поймать 1 мышь?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "1 минуту"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "5 минут"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "12 секунд"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "25 секунд"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77027,
+			"text": "Васе 5 лет. А Ане 9 лет.<br>Какая разница в возрасте будет между ними через три года?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Разница будет составлять 4 года"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Разница будет составлять 7 года"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Разница будет составлять 3 года"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Разница будет составлять 5 года"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77028,
+			"text": "Как мы ещё называем бикарбонат натрия?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "соль"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "сахар"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "уксус"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "пищевая сода"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77029,
+			"text": "Сколько месяцев содержат 30 дней?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "5"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "7"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "9"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "11"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77030,
+			"text": "Кто был первой женщиной, которая получила Нобелевскую премию в 1903 году?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Розалинд Франклин"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Мария Склодовская-Кюри"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Фрэнсис Арнольд"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Дороти Ходжкин"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77031,
+			"text": "В каком месяце люди спят меньше всего?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Август"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Декабрь"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Май"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Февраль"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77032,
+			"text": "В какой стране изобрели мороженое?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Китай"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Канада"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Индия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Япония"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77033,
+			"text": "Какая цифра встречается реже всего между числами 1 и 1000 (включительно)?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "1"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "0"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "9"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Все они одинаково часто встречаются"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77034,
+			"text": "Какая страна выиграла первый в истории чемпионат мира по футболу в 1930 году?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Англия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Бразилия"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Уругвай"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Аргентина"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77035,
+			"text": "Какая страна имеет выход в Индийский океан, Аравийское море и Бенгальский залив?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Пакистан"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Индия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Индонезия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Китай"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77039,
+			"text": "В какой современной арабской стране находится древний финикийский город Константина?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Алжир"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Египет"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "ОАЭ"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Марокко"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77040,
+			"text": "Когда отмечают старый Новый Год?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Отмечают в ночь с 12 на 13 января"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Отмечают в ночь с 9 на 10 января"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Отмечают в ночь с 15 на 16 января"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Отмечают в ночь с 13 на 14 января"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77043,
+			"text": "Какая страна граничит с 14 странами и пересекает 8 часовых поясов?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "США"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Россия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Китай"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Франция"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77044,
+			"text": "Какой продукт впервые выпустила компания Nintendo, прежде чем войти в мир видеоигр?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Наклейки"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Компоненты аппаратного обеспечения"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Инструменты для рисования"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Игровые карты"
+				}
+			],
+			"us": true,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77045,
+			"text": "В каком году была выпущена первая коммерческая гарнитура VR?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "1995"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "1993"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2004"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2015"
+				}
+			],
+			"us": true,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77046,
+			"text": "Кто выпустил первый авиасимулятор для ПК?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Kankstudio"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Microsoft"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Electronic Arts"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Ubisoft"
+				}
+			],
+			"us": true,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77047,
+			"text": "Гавана — это столица какой страны?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Куба"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Венесуэла"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Перу"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Эквадор"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77048,
+			"text": "В какой видеоигре впервые появился Марио?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Super Mario"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Mario Bros."
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Dr. Mario"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Donkey Kong"
+				}
+			],
+			"us": true,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77049,
+			"text": "Единорог — национальное животное какой страны?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Исландия"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Шотландия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Ирландия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Швеция"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77050,
+			"text": "Как долго длится беременность у слонов?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "22 месяца"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "11 месяцев"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "16 месяцев"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "28 месяцев"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77051,
+			"text": "Какая планета ближайшая к Cолнцу?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Уран"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Марс"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Меркурий"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Венера"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77052,
+			"text": "Как называется единица измерения скорости и направления движения компьютерной мыши?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Микки"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Мисти"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Микси"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Мигги"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77053,
+			"text": "Какому президенту США было предложено (и он отказался) озвучить внутриигрового персонажа-президента в Fallout 3?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "было предложено Джимми Картеру"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "было предложено Джо Байдену"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "было предложено Джорджу Бушу"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "было предложено Биллу Клинтону"
+				}
+			],
+			"us": true,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77054,
+			"text": "В какой стране производится больше всего кофе в мире?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Эфиопия"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Бразилия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Колумбия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Куба"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77055,
+			"text": "В какой стране пытались ввести запрет на полуночные игры?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Запрет пытались ввести в Южной Корее"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Запрет пытались ввести в Германии"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Запрет пытались ввести в Чили"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Запрет пытались ввести в Беларуси"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77057,
+			"text": "Какой водопад самый высокий в мире?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Анхель, Венесуэла"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Тугела, ЮАР"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Три Сестры, Перу"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Юмбилья, Перу"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77060,
+			"text": "В какой стране самое большое количество озер?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Канада"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Россия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "США"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Китай"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77061,
+			"text": "Людвиг Ван Бетховен родился в 1770 году в каком городе?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "В городе Бонн"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В городе Вена"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В городе Берн"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В городе Гамбург"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77062,
+			"text": "Как называется тонкая, но длинная страна, занимающая более половины западного побережья Южной Америки?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Тонкая, но длинная страна, называется Мексика"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Тонкая, но длинная страна, называется Аргентина"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Тонкая, но длинная страна, называется Перу"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Тонкая, но длинная страна, называется Чили"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77064,
+			"text": "В какой стране образовалась легендарная рок-группа AC/DC?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Австралия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "США"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Великобритания"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Канада"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77066,
+			"text": "Какую певицу на самом деле зовут Стефани Джоанн Анджелина Джерманотта?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Мадонна"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Шер"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Сандра"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Леди Гага"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77067,
+			"text": "В романе Михаила Булгакова «Мастер и Маргарита» действия происходили в так называемой «нехорошей квартире». Адрес этой квартиры согласно роману:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Адрес в романе не был упомянут"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Г. Москва, ул. Малая Бронная, 50А"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Г. Санкт-Петербург, Набережная канала Грибоедова, 73"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Г. Москва, ул. Большая Садовая, 302-бис"
+				}
+			],
+			"us": true,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77069,
+			"text": "Как называется высокий певческий мужской голос?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Тенор"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Баритон"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Альт"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Бас"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77070,
+			"text": "В какой стране впервые построили метро?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Россия"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Канада"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Великобритания"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Франция"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77071,
+			"text": "В честь какого учёного назван химический элемент <i>Og</i>?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "В честь Ю.Ц. Оганесяна"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В честь А.Г. Оганова"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В честь А.П. Огурцова"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "В честь Ю.Р. Оганянюк"
+				}
+			],
+			"us": true,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 81810,
+			"text": "Выберите игрока с наибольшим количеством денег:",
+			"pic": false,
+			"specialBehavior": "bestPlayer",
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "1"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "3"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "4"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 81811,
+			"text": "Выберите игрока с наименьшим количеством денег:",
+			"pic": false,
+			"specialBehavior": "worstPlayer",
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "1"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "3"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "4"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 81812,
+			"text": "Кто из этих игроков показывает лучшие результаты?",
+			"pic": false,
+			"specialBehavior": "betterPlayer",
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "1"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "3"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "4"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 81813,
+			"text": "Кто из этих игроков играет хуже?",
+			"pic": false,
+			"specialBehavior": "worsePlayer",
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "1"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "3"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "4"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 81814,
+			"text": "Кто на данный момент пережил больше «Смертельных Мини-игр»?",
+			"pic": false,
+			"specialBehavior": "bestSurvivor",
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "1"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "3"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "4"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 81815,
+			"text": "Из этих игроков, кто пережил больше «Смертельных Мини-игр»?",
+			"pic": false,
+			"specialBehavior": "betterSurvivor",
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "1"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "3"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "4"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 81816,
+			"text": "Сколько денег у %PLAYER на данный момент?",
+			"pic": false,
+			"specialBehavior": "randomPlayerScore",
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "1"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "3"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "4"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 81817,
+			"text": "Какое у %PLAYER место в таблице лидеров?",
+			"pic": false,
+			"specialBehavior": "randomPlayerRank",
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "1"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "2"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "3"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "4"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87724,
+			"text": "В каком стиле создавал свои картины известный художник Винсент Ван Гог?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Постимпрессионизм"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Импрессионизм"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Сюрреализм"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Неосюрреализм"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87725,
+			"text": "Дефенестрация — это?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Акт выбрасывания чего-либо, кого-либо из окна"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Психическое состояние, возникающее в ситуации несоответствия желаний имеющимся возможностям"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Хирургическая операция, заключающаяся в создании нового отверстия в костном лабиринте внутреннего уха"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Это термин, который может звучать внушительно, но на самом деле не будет иметь определенного значения"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87712,
+			"text": "Известно, что Михаил Александрович Шолохов получил Нобелевскую Премию по литературе, но за какие заслуги?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "За художественную силу и цельность эпоса о донском казачестве в переломное для России время"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "За нравственную силу и следование русским традициям"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "За ясность мысли и выдающиеся художественные средства"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "За эмоциональную глубину и целостность героев в эпоху социальных изменений в России"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87717,
+			"text": "Представителем какой политической партии являлся американский президент Джордж Вашингтон?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Никакой"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Демократической партии"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Республиканской партии"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Коммунистической партии"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87718,
+			"text": "Где находится сердце у креветки?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Сердце у креветки, находится в голове"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Сердце у креветки, находится в хвосте"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Сердце у креветки, находится в панцире"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Сердце у креветки, находится в груди"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87719,
+			"text": "Сколько карт в стандартной колоде без джокеров?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Стандартная колода без джокеров состоит из 52 карт"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Стандартная колода без джокеров состоит из 54 карт"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Стандартная колода без джокеров состоит из 56 карт"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Стандартная колода без джокеров состоит из 46 карт"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87721,
+			"text": "Какая страна считается родиной суши?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Китай"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Япония"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Корея"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Вьетнам"
+				}
+			],
+			"us": false,
+			"hasIntro": true
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 87723,
+			"text": "Сколько лет было самой молодой матери, когда она родила?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "5"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "6"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "4"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "9"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77073,
+			"text": "Кто была первой принцессой Диснея?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Белоснежка"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Золушка"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Аврора"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Жасмин"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77077,
+			"text": "Как долго живут клетки мозга?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "До двух тысяч лет"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "До одной тысячи лет"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Клетки мозга не умирают"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "До трёх тысяч лет"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77079,
+			"text": "Какую обувь изначально создавали для мужчин, но больше носили женщины?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Балетки"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Сандалии"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Каблуки"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Правильного ответа нет"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77081,
+			"text": "Какая часть тела не имеет кровоснабжения?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Мозг"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Поджелудочная железа"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Лёгкие"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Роговица глаза"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77084,
+			"text": "Названия стран начинаются почти со всех букв, кроме одной из этих:",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Ц"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Щ"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Й"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Ш"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77085,
+			"text": "Если вероятность встретить волка в лесу через 3 часа равна 15%, то какова вероятность встретить волка через 1 час?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "15%"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "1.5%"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "5%"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "3%"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77086,
+			"text": "Как долго длилась самая короткая война?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "27 дней"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "38 минут"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "16 секунд"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "14 часов"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77088,
+			"text": "Какое место является самым сухим на Земле?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Пустыня Атакама"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Филиппины"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Сахарская пустыня"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Долины Мак-Мердо"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77089,
+			"text": "Какие цвета люди с дальтонизмом трудно различают?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Розовый и Синий"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Желтый и Зеленый"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Красный и Зеленый"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Красный и Желтый"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77090,
+			"text": "В какой букве английского алфавита больше всего воды?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "C"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "W"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "U"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "O"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		},
+		{
+			"hasOutro": false,
+			"x": false,
+			"id": 77093,
+			"text": "Какой город присутствует практически на каждом континенте?",
+			"pic": false,
+			"choices": [
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Нью-Йорк"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Сидней"
+				},
+				{
+					"controllerClass": "",
+					"correct": true,
+					"text": "Рим"
+				},
+				{
+					"controllerClass": "",
+					"correct": false,
+					"text": "Милан"
+				}
+			],
+			"us": false,
+			"hasIntro": false
+		}
+	],
+	"episodeid": 1391
+}
