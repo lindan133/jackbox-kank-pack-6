@@ -1,0 +1,208 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "Мы подключились к интернету.",
+        "INTERNET_DISCONNECTED": "Мы не можем подключиться.<br>Проверь подключение к интернету.",
+        "ROOM_DESTROYED": "Твоя комната была разрушена.<br>Мы создадим новую как можно раньше.",
+        "SOCKET_DISCONNECTED ": "Просим прощения, но мы потеряли подключение к серверам Jackbox Games. Пробуем ещё.",
+        "TIMEOUT": "Просим прощения, но мы не можем подключиться к серверам Jackbox Games.<br>Проверь подключение к интернету.",
+        "USER_DISCONNECT": "Соединение с сервером потеряно. Попробуй ещё раз... или два.",
+        "LOST_LICENSE": "Не удалось найти лицензию!",
+        "STEAM_ERROR": "Не удалось проверить наличие лицензии Steam.",
+        "TWITCH_PRIME_ERROR": "Не удалось проверить наличие Twitch Prime.",
+        "LOST_DLC": "Не удалось проверить наличие лицензии на загружаемый контент (DLC). Возвращаемся в меню...",
+        "BACK": "Назад",
+        "CLOSE": "Закрыть",
+        "CANCEL": "Отмена",
+        "SELECT": "Выбрать",
+        "OR": "Или",
+        "ON": "Вкл",
+        "OFF": "Выкл",
+        "HIDE": "Скрыть",
+        "UNHIDE": "Показать",
+        "JOIN": "Заходи!",
+        "PLAY": "Играть",
+        "SETTINGS": "Настройки",
+        "BACK_TO_PACK": "Назад",
+        "PLAY_DESCRIPTION": "Создать игровое лобби и начать игру",
+        "TMI_DESCRIPTION": "Сыграть в новый режим про самих игроков",
+        "SETTINGS_DESCRIPTION": "Цензура, зрители, и другое",
+        "LEADERBOARD_DESCRIPTION": "",
+        "BACK_TO_PACK_DESCRIPTION": "Вернуться в меню Party Pack",
+        "SETTINGS_TITLE": "НАСТРОЙКИ",
+        "LEADERBOARD_TITLE": "ТАБЛИЦА ЛИДЕРОВ",
+        "CONNECTING": "Подключение к игровым серверам",
+        "CONNECTING_DELAY": "Что-то долго...<br />Проверь своё интернет-соединение.",
+        "GO_TO": "Зайди на",
+        "ROOM_CODE":"Код комнаты",
+        "ROOM_JOINED": "<img src='https://cdn.frankerfacez.com/emoticon/185890/2'> Отдохни",
+        "JOIN_ON_YOUR_DEVICE": "на своём устройстве",
+        "JOIN_THE_AUDIENCE": "Присоединяйся к зрителям",
+        "ENTER_ROOM_CODE": "ВВЕДИ КОД КОМНАТЫ",
+        "POST_GAME_CHOICE_TITLE": "Что выберешь?",
+        "EVERYBODY_S_IN": "Нажми ВСЕ ЗДЕСЬ, чтобы начать!",
+        "PRESS": "Нажми",
+        "TO_START": "чтобы начать",
+        "TO_CANCEL": "для отмены",
+        "TO_START_GAME": "чтобы начать игру",
+        "TO_CANCEL_GAME": "для отмены",
+        "JOIN_AUDIENCE": "Присоединяйся к зрителям!",
+        "PLAY_AGAIN_WITH": "СЫГРАТЬ ЕЩЁ?",
+        "SAME_PLAYERS": "ТЕ ЖЕ ИГРОКИ",
+        "LOBBY_OR": "ИЛИ",
+        "NEW_PLAYERS": "НОВЫЕ ИГРОКИ",
+
+        "VOLUME": "Общая громкость",
+        "VOLUME_DESCRIPTION": "Управление громкостью игры.",
+        "VOLUME_HOST": "Громкость ведущего",
+        "VOLUME_HOST_DESCRIPTION": "Управление громкостью ведущего.",
+        "VOLUME_SFX": "Громкость эффектов",
+        "VOLUME_SFX_DESCRIPTION": "Управление громкостью звуковых эффектов.",
+        "VOLUME_MUSIC": "Громкость музыки",
+        "VOLUME_MUSIC_DESCRIPTION": "Управление громкостью музыки.",
+        
+        "FULL_SCREEN": "Во весь экран",
+        "FULL_SCREEN_DESCRIPTION": "Игра займёт весь экран.",
+
+        "AUDIENCE": "Зрители",
+        "AUDIENCE_MODE": "Зрители",
+        "AUDIENCE_MODE_DESCRIPTION": "Позволяет зрителям присоединяться к игре и влиять на её ход.",
+        
+        "EXTENDED_TIMERS": "Увеличенные таймеры",
+        "EXTENDED_TIMERS_DESCRIPTION": "Увеличивает таймеры в игре. Рекомендуется для стримов.",
+        
+        "PASSWORDED_GAME": "Комната с паролем",
+        "PASSWORDED_GAME_DESCRIPTION": "Игрокам нужно будет ввести пароль, чтобы попасть в игру.",
+        
+        "SKIP_TUTORIALS": "Пропускать объяснения",
+        "SKIP_TUTORIALS_DESCRIPTION": "Игра будет проходить без объяснений правил.",
+        
+        "TWITCH_REQUIRED": "Требовать Twitch",
+        "TWITCH_REQUIRED_DESCRIPTION": "Игрокам понадобится авторизоваться через Twitch, чтобы присоединиться к игре.",
+        
+        "FILTER_US_CENTRIC": "Фильтр сложных вопросов",
+        "FILTER_US_CENTRIC_DESCRIPTION": "Убирает часть сложных вопросов в игре. Но не думайте, что все вопросы будут лёгкими!",
+        
+        "FILTER_DMCA": "<b>Фильтр Музыкальных вопросов</b>",
+        "FILTER_DMCA_DESCRIPTION": "Отключает вопросы, которые зависят от воспроизведения музыки (например,\"угадай эту песню\")",
+        
+        "POSTGAME_SHARING": "Делиться после игры",
+        "POSTGAME_SHARING_DESCRIPTION": "Разрешить игрокам поделиться вопросами и ответами в социальных сетях (после игры).",
+
+        "DISABLE_USER_ENTRY_KILLING_FLOORS":"Без творчества",
+        "DISABLE_USER_ENTRY_KILLING_FLOORS_DESCRIPTION":"Не доверяете этим ужасным игрокам? Включив эту опцию, вы уберёте из игры её части с рисованием/вводом текста.",
+
+        "ENABLE_DICTATION_MINIGAME":"Мини-игра \"Диктант\"",
+        "ENABLE_DICTATION_MINIGAME_DESCRIPTION":"Включить мини-игру \"Диктант\".",
+        
+        "ENABLE_MATH_CHALLENGE_MINIGAME":"Мини-игра \"Математика\"",
+        "ENABLE_MATH_CHALLENGE_MINIGAME_DESCRIPTION":"Включить мини-игру \"Математика\".",
+        
+        "ENABLE_TELEPHONE_MINIGAME":"Мини-игра \"Телефоны\"",
+        "ENABLE_TELEPHONE_MINIGAME_DESCRIPTION":"Включить мини-игру \"Телефоны\".",
+        
+        "ENABLE_RULES_MINIGAME":"Мини-игра \"Правила\"",
+        "ENABLE_RULES_MINIGAME_DESCRIPTION":"Включить мини-игру \"Правила\".",
+        
+        "ENABLE_MADNESS_GIFT":"Усложняющий подарок",
+        "ENABLE_MADNESS_GIFT_DESCRIPTION":"В мини-игре \"Подарки\", включить возможность выпадения подарка, усложняющего ответы на вопросы.",
+        
+        "START_GAMEPAD": "Начинать игру с клавиатуры",
+        "START_GAMEPAD_DESCRIPTION": "Игру можно будет начать только с клавиатуры, не с устройств игроков.",
+        
+        "HIDE_ROOM_CODE": "Разрешать скрывать код комнаты",
+        "HIDE_ROOM_CODE_DESCRIPTION": "Позволяет скрыть код для входа, чтобы игроки не зашли в комнату раньше.",
+        
+        "MAX_PLAYERS": "Количество игроков",
+        "MAX_PLAYERS_DESCRIPTION": "Все остальные сыграют как зрители.",
+        
+        "SUBTITLES": "Субтитры",
+        "SUBTITLES_DESCRIPTION": "Мы рекомендуем включить субтитры, так как TTS иногда трудно понять.",
+
+        "PLAYER_NAME": "Игрок",
+        "HIGH_SCORE": "Рекорд",
+        "AVERAGE_SCORE": "Средний счёт",
+        "GAMES_PLAYED": "Игр",
+        "GAMES_WON": "Побед",
+
+        "INTRO_BANNER":"Пропустить это <img src='https://static-cdn.jtvnw.net/emoticons/v2/33/static/light/1.0'>",
+        "INTRO_BUTTON":"ПРОПУСК",
+        "END_GAME_BANNER":"Что выберешь?",
+        "END_GAME_SAME_PLAYERS_BUTTON":"СЫГРАТЬ СИКВЕЛ",
+        "END_GAME_NEW_PLAYERS_BUTTON":"ПЕРЕЗАГРУЗИТЬ ФРАНШИЗУ",
+        "DEATH_BET_BANNER":"<img src='https://static-cdn.jtvnw.net/emoticons/v2/123171/static/light/2.0'> Если ты угадаешь, кто умрёт, ты выиграешь $100.",
+        "DEATH_BET_AUDIENCE_BANNER":"<img src='https://static-cdn.jtvnw.net/emoticons/v2/123171/static/light/2.0'> Если ты угадаешь, кто умрёт, ты выиграешь деньги!",
+        
+        "CONFIRM_NONE":"ОТПРАВИТЬ<br><img src='https://cdn.betterttv.net/emote/59420c88023a013b50774872/2x'>",
+        "CONFIRM_ALL":"ОТПРАВИТЬ<br><img src='https://cdn.betterttv.net/emote/59420c88023a013b50774872/2x'>",
+        "CONFIRM_BUTTON":"ОТПРАВИТЬ<br><img src='https://cdn.betterttv.net/emote/59420c88023a013b50774872/2x'>",
+        
+        "CONFIRM_QUESTION":"Твой выбор:<br>%s",
+        "CONFIRM_DEATH_BET":"<img src='https://cdn.frankerfacez.com/emoticon/263833/2'><br>Ты думаешь, что %s умрёт. Ты выиграешь $%d, если твоя ставка сыграет!",
+        "CONFIRM_DEATH_BET_AUDIENCE":"<img src='https://static-cdn.jtvnw.net/emoticons/v2/70433/static/light/2.0'><br>Спасибо тебе за твой выбор",
+        
+        "HIGH_ROLLERS_BANNER":"Кубиков у тебя: %d",
+        "HIGH_ROLLERS_BUTTON":"БРОСИТЬ",
+        "HIGH_ROLLERS_SAFE_PLAYER_BANNER":"Кому ты отдашь свой кубик? <img src='https://static-cdn.jtvnw.net/emoticons/v2/4339/static/light/2.0'>",
+        
+        "SKULL_DICE_BANNER":"Твоя сумма: %d",
+        "SKULL_DICE_SAFE_PLAYER_BANNER":"Нажми эту кнопку, чтобы бросить кубик!",
+        "SKULL_DICE_BUTTON_ENABLED":"БРОСИТЬ",
+        "SKULL_DICE_BUTTON_DISABLED":"ТРАТИМ ТВОЕ ВРЕМЯ...",
+        
+        "DICTATION_BANNER":"<img src='https://cdn.betterttv.net/emote/5d82600ec0652668c9e4e2f2/2x'> Приготовься <img src='https://cdn.betterttv.net/emote/5d82600ec0652668c9e4e2f2/2x'>",
+        "DICTATION_ENTRY":"ВВЕДИ ПИСЬМО СЮДА",
+        
+        "MATH_FROZEN_BANNER":"Ты затупил))) <img src='https://static-cdn.jtvnw.net/emoticons/v2/425618/static/light/2.0'>",
+        
+        "MIRROR_BANNER":"<img src='https://cdn.betterttv.net/emote/56e9f494fff3cc5c35e5287e/2x'> Что тётя Милдред написала на зеркале?",
+        "MIRROR_ENTRY":"ВВЕДИ СЮДА",
+        "MIRROR_SAFE_PLAYER_BANNER":"<img src='https://cdn.betterttv.net/emote/5fc91cec8c4e2c46195cd91c/2x'> Напиши слово на зеркале",
+        
+        "DONATIONS_CHOOSE_PLAYER_BANNER":"Кому ты хочешь отдать деньги?",
+        "DONATIONS_CHOOSE_AMOUNT_BANNER":"Сколько денег ты хочешь отдать?",
+        "DONATIONS_ENTRY":"(0-<DONATION_LIMIT>)",
+        
+        "PASSWORD_BANNER":"Введи слово из 4-х букв",
+        "PASSWORD_ENTRY":"XXXX",
+        
+        "SKEWERS_BANNER":"<img src='https://cdn.betterttv.net/emote/56e9f494fff3cc5c35e5287e/2x'> Выбери место, чтобы спрятаться!",
+        "SKEWERS_ERROR":"Здесь уже спрятался другой игрок. Ты опоздал)))",
+        "SKEWERS_SAFE_PLAYER_BANNER":"Выбери ряд или столбец, чтобы пронзить его мечом!",
+        
+        "TATTOO_BANNER":"Нарисуй крутую татуировку, прям как у Моргена!",
+        "TATTOO_VOTE_BANNER":"Какая татуировка – самая лучшая?",
+        
+        "GREED_BANNER":"Введи число между %d и %d",
+        "GREED_ENTRY":"(%d-%d)",
+        
+        "CHALICE_BANNER":"<img src='https://cdn.betterttv.net/emote/5733ff12e72c3c0814233e20/2x'> Выбери чашу, из которой выпьешь",
+        "CHALICE_SAFE_PLAYER_BANNER":"<img src='https://cdn.betterttv.net/emote/54fa8f1401e468494b85b537/2x'> Выбери чашу, которую хочешь отравить зайка",
+
+        "GIFT_BANNER":"<img src='https://cdn.betterttv.net/emote/606e6212fba15a03df2ca4bc/2x'> Выбери подарок",
+        
+        "FINGERS_BANNER":"Выбери палец, который хочешь отрезать Лузер))) <img src='https://static-cdn.jtvnw.net/emoticons/v2/28087/static/light/2.0'>",
+        
+        "LOCK_AND_KEY_BANNER_ONE":"Возьми ключ",
+        "LOCK_AND_KEY_BANNER_TWO":"Возьми другой ключ",
+        "LOCK_AND_KEY_BANNER_THREE":"Возьми последний ключ",
+        
+        "LOSER_WHEEL_BANNER":"<img src='https://cdn.betterttv.net/emote/60afeacef8b3f62601c342e1/2x'> Up-X никогда не обманывает!",
+        "LOSER_WHEEL_BUTTON":"АКТИВИРОВАТЬ FREE SPIN",
+        
+        "MIND_MELD_ENTRY":"ОТВЕЧАЙ ЗДЕСЬ",
+        "MIND_MELD_ERROR":"Неверный ответ! Попробуй ещё раз!",
+        "MIND_MELD_DUPLICATE":"Ответы, которые уже получены:<br>%s<br>Попробуй ещё раз!",
+        
+        "PACHINKO_BANNER":"<img src='https://cdn.betterttv.net/emote/566c9fde65dbbdab32ec053e/2x'> Сбрось свою фишку",
+        "PACHINKO_SAFE_PLAYER_BANNER":"<img src='https://static-cdn.jtvnw.net/emoticons/v2/114836/static/light/2.0'> Выбери зону, которую хочешь сделать смертельной"
+    
+    },
+    "fr": {},
+    "it": {},
+    "de": {},
+    "es": {}
+}
+}
