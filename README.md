@@ -26,7 +26,7 @@
 ## Установка
 ### Ручная установка
 1. Скачайте и распакуйте последнюю версию пакета:
-    + [GitHub]([https://github.com/g7eternal/jackbox-forsen-pack-6/archive/refs/heads/main.zip](https://github.com/lindan133/jackbox-kank-pack-6/releases/download/V0.1.1/The.Jackbox.Party.Pack.6.7z) | [Зеркало](https://drive.google.com/file/d/1ql1dXvCVdIUV7EsLMR1G2FxlP7VyIGCM/view?usp=sharing)
+    + [Вот Ссылка](https://drive.google.com/file/d/1ql1dXvCVdIUV7EsLMR1G2FxlP7VyIGCM/view?usp=sharing)
 
 2. В Steam кликните правой кнопкой на **Jackbox Party Pack 6** → _Управление_ → _Просмотреть локальные файлы_
 ![find-files](https://user-images.githubusercontent.com/40625769/133881777-34a63150-6665-462b-9d98-76fd787d23a8.gif)
